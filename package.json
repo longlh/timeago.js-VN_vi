@@ -1,0 +1,31 @@
+{
+  "name": "timeago.js-VN_vi",
+  "version": "1.0.0",
+  "description": "Vietname",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/longlh/timeago.js-VN_vi"
+  },
+  "bugs": {
+    "url": "https://github.com/longlh/timeago.js-VN_vi/issues"
+  },
+  "homepage": "https://github.com/timeago.js-VN_vi/di-linker",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+      "timeago",
+      "timeago.js",
+      "localize",
+      "vietnamese",
+      "vietnam",
+      "vi",
+      "vn"
+    ],
+  "author": {
+    "name": "Luc Hoang Long",
+    "email": "d@dapps.me"
+  },
+  "license": "MIT"
+}
